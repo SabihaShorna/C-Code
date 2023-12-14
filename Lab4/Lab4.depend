@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1605860903 source:c:\users\sonia\onedrive\desktop\c++ code\lab4\unsortedtype.cpp
+	"unsortedtype.h"
+
+1605884510 c:\users\sonia\onedrive\desktop\c++ code\lab4\unsortedtype.h
+
+1605892295 source:c:\users\sonia\onedrive\desktop\c++ code\lab4\main.cpp
+	<iostream>
+	<string>
+	"unsortedtype.h"
+	"unsortedtype.cpp"
+	"studentInfo.h"
+
+1605860903 c:\users\sonia\onedrive\desktop\c++ code\lab4\unsortedtype.cpp
+	"unsortedtype.h"
+
+1605892303 c:\users\sonia\onedrive\desktop\c++ code\lab4\studentinfo.h
+	<iostream>
+	<string>
+
+1605892303 source:c:\users\sonia\onedrive\desktop\c++ code\lab4\studentinfo.cpp
+	"studentInfo.h"
+

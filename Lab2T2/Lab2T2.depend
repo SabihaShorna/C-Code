@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1604830063 source:c:\users\sonia\onedrive\desktop\c++ code\lab2t2\main.cpp
+	"dynarr.h"
+	<iostream>
+
+1604830063 c:\users\sonia\onedrive\desktop\c++ code\lab2t2\dynarr.h
+	"dynarr.tpp"
+
+1604830063 c:\users\sonia\onedrive\desktop\c++ code\lab2t2\dynarr.tpp
+	"dynarr.h"
+	<iostream>
+

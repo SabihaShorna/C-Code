@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1610440555 source:c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\stacktype.cpp
+	"StackType.h"
+
+1610469985 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\stacktype.h
+
+1610440843 source:c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\quetype.cpp
+	"quetype.h"
+
+1610440843 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\quetype.h
+
+1610468745 source:c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+
+1610472894 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\graphtype.h
+	"stacktype.h"
+	"quetype.h"
+
+1610440555 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\stacktype.cpp
+	"StackType.h"
+
+1610440843 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\quetype.cpp
+	"quetype.h"
+
+1610469985 source:c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\main.cpp
+	<iostream>
+	"graphtype.h"
+	"graphtype.cpp"
+
+1610478781 c:\users\sonia\onedrive\desktop\c++ code\labm-15.1\graphtype.cpp
+	"graphtype.h"
+	"stacktype.cpp"
+	"quetype.cpp"
+	<iostream>
+

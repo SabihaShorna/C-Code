@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610029931 source:c:\users\sonia\onedrive\desktop\c++ code\checking13\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+

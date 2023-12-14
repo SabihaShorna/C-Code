@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1610567589 source:c:\users\sonia\onedrive\desktop\c++ code\labm-13\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	"binarysearchtree.cpp"
+	<iostream>
+	<queue>
+	<algorithm>
+
+1609873242 c:\users\sonia\onedrive\desktop\c++ code\labm-13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+
+1610882990 c:\users\sonia\onedrive\desktop\c++ code\labm-13\binarysearchtree.h
+	"quetype.h"
+
+1610882990 source:c:\users\sonia\onedrive\desktop\c++ code\labm-13\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1610882990 c:\users\sonia\onedrive\desktop\c++ code\labm-13\quetype.h
+
+1610882990 c:\users\sonia\onedrive\desktop\c++ code\labm-13\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1610882990 source:c:\users\sonia\onedrive\desktop\c++ code\labm-13\quetype.cpp
+	"quetype.h"
+	<iostream>
+

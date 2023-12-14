@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1605422982 source:c:\users\sonia\onedrive\desktop\c++ code\lab3t2\main.cpp
+	"Complex.h"
+	<iostream>
+
+1605433914 c:\users\sonia\onedrive\desktop\c++ code\lab3t2\complex.h
+	"Complex.tpp"
+
+1605422982 c:\users\sonia\onedrive\desktop\c++ code\lab3t2\complex.tpp
+	"Complex.h"
+	<iostream>
+

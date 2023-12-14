@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608053060 source:c:\users\sonia\onedrive\desktop\c++ code\queue\main.cpp
+	<iostream>
+	"queuetype.h"
+
+1608053060 c:\users\sonia\onedrive\desktop\c++ code\queue\queuetype.h
+	<iostream>
+	<new>
+
+1608053060 source:c:\users\sonia\onedrive\desktop\c++ code\queue\queuetype.cpp
+	<iostream>
+	"queuetype.h"
+

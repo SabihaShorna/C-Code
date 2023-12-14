@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1606412746 source:c:\users\sonia\onedrive\desktop\c++ code\labm06.2\stacktype.cpp
+	"StackType.h"
+
+1606415745 c:\users\sonia\onedrive\desktop\c++ code\labm06.2\stacktype.h
+
+1606466894 source:c:\users\sonia\onedrive\desktop\c++ code\labm06.2\main.cpp
+	<iostream>
+	"StackType.h"
+	"StackType.cpp"
+
+1606412746 c:\users\sonia\onedrive\desktop\c++ code\labm06.2\stacktype.cpp
+	"StackType.h"
+

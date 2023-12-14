@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609701083 source:c:\users\sonia\onedrive\desktop\c++ code\labm-11\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
+1609262969 c:\users\sonia\onedrive\desktop\c++ code\labm-11\sortedtype.h
+
+1609702489 source:c:\users\sonia\onedrive\desktop\c++ code\labm-11\main.cpp
+	<iostream>
+	"sortedtype.h"
+	"sortedtype.cpp"
+
+1609701083 c:\users\sonia\onedrive\desktop\c++ code\labm-11\sortedtype.cpp
+	"sortedtype.h"
+	<iostream>
+
